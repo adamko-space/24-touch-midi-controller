@@ -1,3 +1,7 @@
+
+![24-touch-midi-controller](https://github.com/danonwski/24-touch-midi-controller/blob/main/media/24-touch-midi-controller.jpg)
+
+
 # 24 Touch MIDI Controller (Atmega32u4) 
 The controller has 24 capacitive inputs supported by two MPR121 chips. The MCU is Arduin Pro Micro with Atmega32u4 supporting MIDI communication via USB.
 
