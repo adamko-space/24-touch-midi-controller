@@ -55,7 +55,7 @@ Mpr121 send MIDI value start from C1 - 36 note midi
 
 ## Status:
 
-- first led - generate rgb fade effect
+- first led - chose octave color fade effect
 
 - second led - show status connector touched, mute/unmute mode, current change octave
 
